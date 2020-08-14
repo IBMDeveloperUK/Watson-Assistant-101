@@ -4,7 +4,7 @@ These _**Watson Assistant**_ labs provide you with a set of fully guided tutoria
 Once you've worked through the lab exercises, you'll be fully equipped to create your own chatbot using _**IBM Cloud**_ and _**IBM Watson**_!
 
 ## Prerequisites
-- [IBM Cloud](https://ibm.biz/Bdzje6) account
+- [IBM Cloud](https://ibm.biz/BdqAtx) account
 
 ## Workshop materials
 The workshop materials for each part of the lab are contained in the subfolders README files:
